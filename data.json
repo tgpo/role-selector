@@ -1,0 +1,37 @@
+{
+	"collections": [
+	{
+		"onuw": 
+		{
+			"roles": [
+				{"name": "Troublemaker"},
+				{"name": "Seer"},
+				{"name": "Prince"},
+				{"name": "Hunter"},
+				{"name": "Cursed"},
+				{"name": "Bodyguard"},
+				{"name": "Curator"},
+				{"name": "Revealer"},
+				{"name": "Beholder"},
+				{"name": "Insomniac"},
+				{"name": "Witch"}
+			]
+		},
+		"onuwd": 
+		{
+			"roles": [
+				{"name": "Assassin"},
+				{"name": "Apprentice Assassin"},
+				{"name": "Copycat"},
+				{"name": "Doppelganger"},
+				{"name": "Diseased"},
+				{"name": "Cupid"},
+				{"name": "Instigator"},
+				{"name": "Priest"},
+				{"name": "Sentinel"},
+				{"name": "Thing"},
+				{"name": "Mason"}
+			]
+		}
+	}]
+}
